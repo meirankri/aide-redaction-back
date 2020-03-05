@@ -8,7 +8,7 @@ let result = require('./json-result')
 
 let urls = []
 result.organic.map((r,i) => {
-  if(r.url != undefined && i<11) {
+  if(r.url != undefined && i<2) {
     urls.push(r.url)
   }
   
