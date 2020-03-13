@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@azure/ai-text-analytics": "^1.0.0-preview.3",
+    "@azure/cognitiveservices-spellcheck": "^3.0.0",
     "@azure/cognitiveservices-textanalytics": "^4.0.0",
     "axios": "^0.19.2",
     "express": "^4.17.1",
